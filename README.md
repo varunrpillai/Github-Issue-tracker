@@ -4,4 +4,4 @@ This was done as part of a coding excercise. The task is to use the github web a
 I would like to expand this app to search for any public github repo and look at the issues.
 
 Download the app from google drive. 
-https://drive.google.com/open?id=0B7DhQQTiHPLYTHJSNTZiRWdlZmc
+https://drive.google.com/open?id=0B7DhQQTiHPLYbW94aXpOdV9fbDBBNHB0ajZqdkxrMXlpcE5z
